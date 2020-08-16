@@ -42,7 +42,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&strea
 #EXTINF:-1,Globo Nordeste | HD
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/michele001/michele001/25
 #EXTINF:-1,Globo BA | HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/michele001/michele001/26
+plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/michele001/michele001/2
 #EXTINF:-1,Globo RJ | HD 
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/michele001/michele001/27
 #EXTINF:-1,Record TV | FHD
@@ -51,7 +51,7 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&strea
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/michele001/michele001/31
 #EXTINF:-1,Rede 21
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/michele001/michele001/32
-#EXTINF:-1,Rede TV | FHD
+#EXTINF:-1,Rede TV | FH
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/michele001/michele001/34
 #EXTINF:-1,Rede Vida | HD
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/michele001/michele001/35
@@ -447,7 +447,4 @@ plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&strea
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/michele001/michele001/7980
 #EXTINF:-1,Al Jazeera HD AR
 plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/michele001/michele001/7981
-#EXTINF:-1,CNN BRASIL HD
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/michele001/michele001/19655
-#EXTINF:-1,DAZN
-plugin://plugin.video.f4mTester/?name=[COLOR lime][B]RAMALHOTV[/B][/COLOR]&streamtype=TSDOWNLOADER&amp;url=http://viptv2.dyndns.tv:25461/michele001/michele001/23932
+#EXTINF:-1,CNN BRASI
